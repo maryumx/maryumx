@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi there, I'm Mehraj!
+👋 Hi there, I'm Maryam!
 
 I'm a beginner in Git & GitHub, currently learning how to manage code, collaborate on projects, and build a strong foundation in version control.
 
