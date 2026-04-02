@@ -1,36 +1,71 @@
 ## Hi there 👋
 👋 Hi there, I'm Maryam!
-
-I'm a beginner in Git & GitHub, currently learning how to manage code, collaborate on projects, and build a strong foundation in version control.
-
-🚀 What I'm doing right now:
-
-Learning Git basics (commits, branches, merges)
 <br>
-Exploring GitHub workflows
+Beginner Developer | Git | GitHub | Python | Version Control
+
+📌 Summary
+
+Motivated and detail-oriented beginner with hands-on experience in Git, GitHub, and Python. Skilled in version control workflows, basic programming, and working with Python libraries. Currently building a strong foundation in software development and open-source contribution.
+
+🛠️ Skills
+Git (commits, branching, merging)
 <br>
-Working on small projects to improve consistency
-
-💡 My goals:
-
-Become confident with Git & GitHub
+GitHub (repositories, pull requests, workflows)
+<br>
+Python (Core Programming)
+<br>
+Python Libraries (NumPy, Pandas – basics)
+<br>
+Version Control Systems
+<br>
+Basic Programming Concepts
+<br>
+Collaboration & Team Work
+<br>
+🚀 Projects
+Git Practice Repository
+<br>
+Applied Git commands (init, add, commit, push)
+<br>
+Practiced branching and merging workflows
+<br>
+Python Practice Projects
+<br>
+Built small programs using core Python concepts
+<br>
+Used basic libraries like NumPy and Pandas
+<br>
+📚 Currently Learning
+<br>
+Advanced Git workflows
+<br>
+GitHub collaboration (forking, pull requests)
+<br>
+Python libraries and real-world applications
+<br>
+🎯 Goals
+<br>
+Gain proficiency in Git, GitHub, and Python
 <br>
 Contribute to open-source projects
 <br>
-Build and showcase useful projects
-
-🛠️ Skills I'm learning:
-
-Git & GitHub
+Build real-world development projects
 <br>
-Basic programming concepts
+🔗 Connect
 <br>
-Project collaboration
+GitHub: (your profile link)
+<br>
+LinkedIn: (optional)
+<br>
+📈 Additional
+<br>
+Strong learning mindset
+<br>
+Consistent practice
+<br>
+Passion for technology and development
 
-📈 Fun fact:
-Every expert was once a beginner — and I’m just getting started!
 
-🔗 Let’s connect & grow together!
 <!--
 **maryumx/maryumx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
