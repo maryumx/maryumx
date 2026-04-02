@@ -1,13 +1,17 @@
 ## Hi there 👋
 👋 Hi there, I'm Maryam!
 <br>
+<br>
 Beginner Developer | Git | GitHub | Python | Version Control
 <br>
+<br>
 📌 Summary
-
+<br>
 Motivated and detail-oriented beginner with hands-on experience in Git, GitHub, and Python. Skilled in version control workflows, basic programming, and working with Python libraries. Currently building a strong foundation in software development and open-source contribution.
 <br>
+<br>
 🛠️ Skills
+<br>
 Git (commits, branching, merging)
 <br>
 GitHub (repositories, pull requests, workflows)
@@ -24,6 +28,7 @@ Collaboration & Team Work
 <br>
 <br>
 🚀 Projects
+<br>
 Git Practice Repository
 <br>
 Applied Git commands (init, add, commit, push)
@@ -60,6 +65,7 @@ Build real-world development projects
 GitHub: https://github.com/maryumx
 <br>
 LinkedIn: https://www.linkedin.com/in/maryam-kawa-912a79385?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+<br>
 <br>
 📈 Additional
 <br>
