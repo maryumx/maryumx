@@ -111,14 +111,7 @@ I'm continuously improving my skills by working on hands-on projects and explori
 
 ---
 
-# 📈 GitHub Statistics
 
-
-![](https://github-readme-stats.vercel.app/api?username=maryumx&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=maryumx&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?maryumx&layout=compact&theme=github_dark)
 
 ---
 
